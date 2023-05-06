@@ -1,0 +1,12 @@
+E:\CURBIT PROJECT\CurbitProject\Notification.DAL\bin\Debug\net6.0\Notification.DAL.deps.json
+E:\CURBIT PROJECT\CurbitProject\Notification.DAL\bin\Debug\net6.0\Notification.DAL.dll
+E:\CURBIT PROJECT\CurbitProject\Notification.DAL\bin\Debug\net6.0\Notification.DAL.pdb
+E:\CURBIT PROJECT\CurbitProject\Notification.DAL\obj\Debug\net6.0\Notification.DAL.csproj.AssemblyReference.cache
+E:\CURBIT PROJECT\CurbitProject\Notification.DAL\obj\Debug\net6.0\Notification.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURBIT PROJECT\CurbitProject\Notification.DAL\obj\Debug\net6.0\Notification.DAL.AssemblyInfoInputs.cache
+E:\CURBIT PROJECT\CurbitProject\Notification.DAL\obj\Debug\net6.0\Notification.DAL.AssemblyInfo.cs
+E:\CURBIT PROJECT\CurbitProject\Notification.DAL\obj\Debug\net6.0\Notification.DAL.csproj.CoreCompileInputs.cache
+E:\CURBIT PROJECT\CurbitProject\Notification.DAL\obj\Debug\net6.0\Notification.DAL.dll
+E:\CURBIT PROJECT\CurbitProject\Notification.DAL\obj\Debug\net6.0\refint\Notification.DAL.dll
+E:\CURBIT PROJECT\CurbitProject\Notification.DAL\obj\Debug\net6.0\Notification.DAL.pdb
+E:\CURBIT PROJECT\CurbitProject\Notification.DAL\obj\Debug\net6.0\ref\Notification.DAL.dll

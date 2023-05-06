@@ -1,0 +1,17 @@
+E:\CURBIT PROJECT\CurbitProject\Authorization.Infrastructure\bin\Debug\net6.0\Authorization.Infrastructure.deps.json
+E:\CURBIT PROJECT\CurbitProject\Authorization.Infrastructure\bin\Debug\net6.0\Authorization.Infrastructure.dll
+E:\CURBIT PROJECT\CurbitProject\Authorization.Infrastructure\bin\Debug\net6.0\Authorization.Infrastructure.pdb
+E:\CURBIT PROJECT\CurbitProject\Authorization.Infrastructure\obj\Debug\net6.0\Authorization.Infrastructure.csproj.AssemblyReference.cache
+E:\CURBIT PROJECT\CurbitProject\Authorization.Infrastructure\obj\Debug\net6.0\Authorization.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURBIT PROJECT\CurbitProject\Authorization.Infrastructure\obj\Debug\net6.0\Authorization.Infrastructure.AssemblyInfoInputs.cache
+E:\CURBIT PROJECT\CurbitProject\Authorization.Infrastructure\obj\Debug\net6.0\Authorization.Infrastructure.AssemblyInfo.cs
+E:\CURBIT PROJECT\CurbitProject\Authorization.Infrastructure\obj\Debug\net6.0\Authorization.Infrastructure.csproj.CoreCompileInputs.cache
+E:\CURBIT PROJECT\CurbitProject\Authorization.Infrastructure\obj\Debug\net6.0\Authorization.Infrastructure.dll
+E:\CURBIT PROJECT\CurbitProject\Authorization.Infrastructure\obj\Debug\net6.0\refint\Authorization.Infrastructure.dll
+E:\CURBIT PROJECT\CurbitProject\Authorization.Infrastructure\obj\Debug\net6.0\Authorization.Infrastructure.pdb
+E:\CURBIT PROJECT\CurbitProject\Authorization.Infrastructure\obj\Debug\net6.0\ref\Authorization.Infrastructure.dll
+E:\CURBIT PROJECT\CurbitProject\Authorization.Infrastructure\bin\Debug\net6.0\Authorization.Infrastructure.runtimeconfig.json
+E:\CURBIT PROJECT\CurbitProject\Authorization.Infrastructure\bin\Debug\net6.0\Common.Data.dll
+E:\CURBIT PROJECT\CurbitProject\Authorization.Infrastructure\bin\Debug\net6.0\Common.Data.pdb
+E:\CURBIT PROJECT\CurbitProject\Authorization.Infrastructure\obj\Debug\net6.0\Authorization.Infrastructure.csproj.CopyComplete
+E:\CURBIT PROJECT\CurbitProject\Authorization.Infrastructure\obj\Debug\net6.0\Authorization.Infrastructure.genruntimeconfig.cache

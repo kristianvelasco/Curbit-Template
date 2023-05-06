@@ -1,0 +1,12 @@
+E:\CURBIT PROJECT\CurbitProject\Authorization.DAL\bin\Debug\net6.0\Authorization.Domain.deps.json
+E:\CURBIT PROJECT\CurbitProject\Authorization.DAL\bin\Debug\net6.0\Authorization.Domain.dll
+E:\CURBIT PROJECT\CurbitProject\Authorization.DAL\bin\Debug\net6.0\Authorization.Domain.pdb
+E:\CURBIT PROJECT\CurbitProject\Authorization.DAL\obj\Debug\net6.0\Authorization.Domain.csproj.AssemblyReference.cache
+E:\CURBIT PROJECT\CurbitProject\Authorization.DAL\obj\Debug\net6.0\Authorization.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURBIT PROJECT\CurbitProject\Authorization.DAL\obj\Debug\net6.0\Authorization.Domain.AssemblyInfoInputs.cache
+E:\CURBIT PROJECT\CurbitProject\Authorization.DAL\obj\Debug\net6.0\Authorization.Domain.AssemblyInfo.cs
+E:\CURBIT PROJECT\CurbitProject\Authorization.DAL\obj\Debug\net6.0\Authorization.Domain.csproj.CoreCompileInputs.cache
+E:\CURBIT PROJECT\CurbitProject\Authorization.DAL\obj\Debug\net6.0\Authorization.Domain.dll
+E:\CURBIT PROJECT\CurbitProject\Authorization.DAL\obj\Debug\net6.0\refint\Authorization.Domain.dll
+E:\CURBIT PROJECT\CurbitProject\Authorization.DAL\obj\Debug\net6.0\Authorization.Domain.pdb
+E:\CURBIT PROJECT\CurbitProject\Authorization.DAL\obj\Debug\net6.0\ref\Authorization.Domain.dll

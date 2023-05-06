@@ -1,0 +1,10 @@
+E:\CURBIT PROJECT\CurbitProject\AuthorizationDatabase\bin\Debug\AuthorizationDatabase.dacpac
+E:\CURBIT PROJECT\CurbitProject\AuthorizationDatabase\bin\Debug\AuthorizationDatabase.dll
+E:\CURBIT PROJECT\CurbitProject\AuthorizationDatabase\bin\Debug\AuthorizationDatabase.pdb
+E:\CURBIT PROJECT\CurbitProject\AuthorizationDatabase\obj\Debug\AuthorizationDatabase.sqlproj.AssemblyReference.cache
+E:\CURBIT PROJECT\CurbitProject\AuthorizationDatabase\obj\Debug\AuthorizationDatabase.dll
+E:\CURBIT PROJECT\CurbitProject\AuthorizationDatabase\obj\Debug\AuthorizationDatabase.pdb
+E:\CURBIT PROJECT\CurbitProject\AuthorizationDatabase\obj\Debug\Model.xml
+E:\CURBIT PROJECT\CurbitProject\AuthorizationDatabase\obj\Debug\refactor.xml
+E:\CURBIT PROJECT\CurbitProject\AuthorizationDatabase\obj\Debug\postdeploy.sql
+E:\CURBIT PROJECT\CurbitProject\AuthorizationDatabase\obj\Debug\predeploy.sql
