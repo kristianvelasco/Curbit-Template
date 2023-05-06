@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace OrderFunction.Services.Interfaces
 {
-    internal interface IOrderService
+    public  interface IOrderService
     {
+        void Init();
     }
 }

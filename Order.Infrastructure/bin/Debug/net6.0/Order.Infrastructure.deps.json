@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "Order.Infrastructure/1.0.0": {
         "dependencies": {
-          "Common.Data": "1.0.0"
+          "Common.Data": "1.0.0",
+          "Order.Domain": "1.0.0"
         },
         "runtime": {
           "Order.Infrastructure.dll": {}
@@ -136,6 +137,14 @@
         "runtime": {
           "Common.Data.dll": {}
         }
+      },
+      "Order.Domain/1.0.0": {
+        "dependencies": {
+          "Common.Data": "1.0.0"
+        },
+        "runtime": {
+          "Order.Domain.dll": {}
+        }
       }
     }
   },
@@ -230,6 +239,11 @@
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
     },
     "Common.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Order.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

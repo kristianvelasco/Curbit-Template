@@ -19,12 +19,6 @@ public class OrderDbContext : DbContext, IUnitOfWork
 
     public bool HasActiveTransaction => _currentTransaction != null;
 
-    public async Task<bool> SaveChangesAsync(CancellationToken cancellationToken = default)
-    {
-        _ = await base.SaveChangesAsync(cancellationToken);
-
-        return true;
-    }
     public async Task<IDbContextTransaction?> BeginTransactionAsync()
     {
         if (_currentTransaction != null)

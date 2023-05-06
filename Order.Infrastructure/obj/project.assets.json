@@ -229,6 +229,19 @@
         "runtime": {
           "bin/placeholder/Common.Data.dll": {}
         }
+      },
+      "Order.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Common.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Order.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Order.Domain.dll": {}
+        }
       }
     }
   },
@@ -572,11 +585,17 @@
       "type": "project",
       "path": "../Common.Data/Common.Data.csproj",
       "msbuildProject": "../Common.Data/Common.Data.csproj"
+    },
+    "Order.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Order.DAL/Order.Domain.csproj",
+      "msbuildProject": "../Order.DAL/Order.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Common.Data >= 1.0.0"
+      "Common.Data >= 1.0.0",
+      "Order.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -608,6 +627,9 @@
           "projectReferences": {
             "E:\\CURBITPROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj": {
               "projectPath": "E:\\CURBITPROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj"
+            },
+            "E:\\CURBITPROJECT\\CurbitProject\\Order.DAL\\Order.Domain.csproj": {
+              "projectPath": "E:\\CURBITPROJECT\\CurbitProject\\Order.DAL\\Order.Domain.csproj"
             }
           }
         }

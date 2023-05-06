@@ -22,3 +22,6 @@ E:\CURBITPROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\Order.Domain.dll
 E:\CURBITPROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\refint\Order.Domain.dll
 E:\CURBITPROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\Order.Domain.pdb
 E:\CURBITPROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\ref\Order.Domain.dll
+E:\CURBITPROJECT\CurbitProject\Order.DAL\bin\Debug\net6.0\Common.Data.dll
+E:\CURBITPROJECT\CurbitProject\Order.DAL\bin\Debug\net6.0\Common.Data.pdb
+E:\CURBITPROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\Order.Domain.csproj.CopyComplete
