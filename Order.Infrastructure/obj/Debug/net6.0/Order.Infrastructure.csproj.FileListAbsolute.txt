@@ -28,3 +28,5 @@ E:\CURBITPROJECT\CurbitProject\Order.Infrastructure\obj\Debug\net6.0\Order.Infra
 E:\CURBITPROJECT\CurbitProject\Order.Infrastructure\obj\Debug\net6.0\refint\Order.Infrastructure.dll
 E:\CURBITPROJECT\CurbitProject\Order.Infrastructure\obj\Debug\net6.0\Order.Infrastructure.pdb
 E:\CURBITPROJECT\CurbitProject\Order.Infrastructure\obj\Debug\net6.0\ref\Order.Infrastructure.dll
+E:\CURBITPROJECT\CurbitProject\Order.Infrastructure\bin\Debug\net6.0\Order.Domain.dll
+E:\CURBITPROJECT\CurbitProject\Order.Infrastructure\bin\Debug\net6.0\Order.Domain.pdb

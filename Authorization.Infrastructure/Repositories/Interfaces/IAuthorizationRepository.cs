@@ -1,6 +1,8 @@
-﻿namespace Authorization.Infrastructure.Repositories.Interfaces;
+﻿using Common.Data.Data;
 
-public interface IAuthorizationRepository
+namespace Authorization.Infrastructure.Repositories.Interfaces;
+
+public interface IAuthorizationRepository : IUnitOfWork
 {
     object Add(object order);
 

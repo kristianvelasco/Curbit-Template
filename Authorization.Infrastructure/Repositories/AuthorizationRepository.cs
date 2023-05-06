@@ -19,6 +19,11 @@ public class AuthorizationRepository : IAuthorizationRepository
         throw new NotImplementedException();
     }
 
+    public Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
+    {
+        throw new NotImplementedException();
+    }
+
     public void Update(object order)
     {
         throw new NotImplementedException();

@@ -10,3 +10,5 @@
 /OrderDatabase/OrderDatabase.jfm
 /NotificationDatabase/NotificationDatabase.dbmdl
 /NotificationDatabase/NotificationDatabase.jfm
+*.dll
+*.pdb
