@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CURBIT PROJECT\\CurbitProject\\Notification.DAL\\Notification.Domain.csproj",
+      "projectUniqueName": "E:\\CURBITPROJECT\\CurbitProject\\Notification.DAL\\Notification.Domain.csproj",
       "projectName": "Notification.Domain",
-      "projectPath": "E:\\CURBIT PROJECT\\CurbitProject\\Notification.DAL\\Notification.Domain.csproj",
+      "projectPath": "E:\\CURBITPROJECT\\CurbitProject\\Notification.DAL\\Notification.Domain.csproj",
       "packagesPath": "C:\\Users\\KRISTIAN\\.nuget\\packages\\",
-      "outputPath": "E:\\CURBIT PROJECT\\CurbitProject\\Notification.DAL\\obj\\",
+      "outputPath": "E:\\CURBITPROJECT\\CurbitProject\\Notification.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KRISTIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

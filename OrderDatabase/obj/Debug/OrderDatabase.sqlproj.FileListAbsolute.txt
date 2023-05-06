@@ -8,3 +8,9 @@ E:\CURBIT PROJECT\CurbitProject\OrderDatabase\obj\Debug\Model.xml
 E:\CURBIT PROJECT\CurbitProject\OrderDatabase\obj\Debug\refactor.xml
 E:\CURBIT PROJECT\CurbitProject\OrderDatabase\obj\Debug\postdeploy.sql
 E:\CURBIT PROJECT\CurbitProject\OrderDatabase\obj\Debug\predeploy.sql
+E:\CURBITPROJECT\CurbitProject\OrderDatabase\bin\Debug\OrderDatabase.dacpac
+E:\CURBITPROJECT\CurbitProject\OrderDatabase\bin\Debug\OrderDatabase.dll
+E:\CURBITPROJECT\CurbitProject\OrderDatabase\bin\Debug\OrderDatabase.pdb
+E:\CURBITPROJECT\CurbitProject\OrderDatabase\obj\Debug\OrderDatabase.sqlproj.AssemblyReference.cache
+E:\CURBITPROJECT\CurbitProject\OrderDatabase\obj\Debug\OrderDatabase.dll
+E:\CURBITPROJECT\CurbitProject\OrderDatabase\obj\Debug\OrderDatabase.pdb

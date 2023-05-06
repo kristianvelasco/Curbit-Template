@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oP78yQb3VYoyUpbJ6q9/SpDyP3ZRdNdsdPy6ryxbbe9IKhYMe7AP+ax/nLvEoOvF+QYf4XOgQKkAgOM+ALbElw==",
+  "dgSpecHash": "wMPsevJdkeOW1ayHxsZbGwGU5XZjV9/Oqz8K4UD9l8HyZEbAc+3kVlpif3XWyhveDI6SZEJ1pteyEYbkEjNcpw==",
   "success": true,
-  "projectFilePath": "E:\\CURBIT PROJECT\\CurbitProject\\AuthorizationAPI\\AuthorizationAPI.csproj",
+  "projectFilePath": "E:\\CURBITPROJECT\\CurbitProject\\AuthorizationAPI\\AuthorizationAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KRISTIAN\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\KRISTIAN\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

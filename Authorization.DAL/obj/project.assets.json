@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CURBIT PROJECT\\CurbitProject\\Authorization.DAL\\Authorization.Domain.csproj",
+      "projectUniqueName": "E:\\CURBITPROJECT\\CurbitProject\\Authorization.DAL\\Authorization.Domain.csproj",
       "projectName": "Authorization.Domain",
-      "projectPath": "E:\\CURBIT PROJECT\\CurbitProject\\Authorization.DAL\\Authorization.Domain.csproj",
+      "projectPath": "E:\\CURBITPROJECT\\CurbitProject\\Authorization.DAL\\Authorization.Domain.csproj",
       "packagesPath": "C:\\Users\\KRISTIAN\\.nuget\\packages\\",
-      "outputPath": "E:\\CURBIT PROJECT\\CurbitProject\\Authorization.DAL\\obj\\",
+      "outputPath": "E:\\CURBITPROJECT\\CurbitProject\\Authorization.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KRISTIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

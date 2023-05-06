@@ -10,3 +10,15 @@ E:\CURBIT PROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\Order.Domain.dll
 E:\CURBIT PROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\refint\Order.Domain.dll
 E:\CURBIT PROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\Order.Domain.pdb
 E:\CURBIT PROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\ref\Order.Domain.dll
+E:\CURBITPROJECT\CurbitProject\Order.DAL\bin\Debug\net6.0\Order.Domain.deps.json
+E:\CURBITPROJECT\CurbitProject\Order.DAL\bin\Debug\net6.0\Order.Domain.dll
+E:\CURBITPROJECT\CurbitProject\Order.DAL\bin\Debug\net6.0\Order.Domain.pdb
+E:\CURBITPROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\Order.Domain.csproj.AssemblyReference.cache
+E:\CURBITPROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURBITPROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\Order.Domain.AssemblyInfoInputs.cache
+E:\CURBITPROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\Order.Domain.AssemblyInfo.cs
+E:\CURBITPROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\Order.Domain.csproj.CoreCompileInputs.cache
+E:\CURBITPROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\Order.Domain.dll
+E:\CURBITPROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\refint\Order.Domain.dll
+E:\CURBITPROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\Order.Domain.pdb
+E:\CURBITPROJECT\CurbitProject\Order.DAL\obj\Debug\net6.0\ref\Order.Domain.dll

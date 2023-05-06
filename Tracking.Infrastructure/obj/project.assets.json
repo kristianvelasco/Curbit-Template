@@ -3248,11 +3248,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CURBIT PROJECT\\CurbitProject\\Tracking.Infrastructure\\Tracking.Infrastructure.csproj",
+      "projectUniqueName": "E:\\CURBITPROJECT\\CurbitProject\\Tracking.Infrastructure\\Tracking.Infrastructure.csproj",
       "projectName": "Tracking.Infrastructure",
-      "projectPath": "E:\\CURBIT PROJECT\\CurbitProject\\Tracking.Infrastructure\\Tracking.Infrastructure.csproj",
+      "projectPath": "E:\\CURBITPROJECT\\CurbitProject\\Tracking.Infrastructure\\Tracking.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\KRISTIAN\\.nuget\\packages\\",
-      "outputPath": "E:\\CURBIT PROJECT\\CurbitProject\\Tracking.Infrastructure\\obj\\",
+      "outputPath": "E:\\CURBITPROJECT\\CurbitProject\\Tracking.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KRISTIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3269,8 +3269,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\CURBIT PROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj": {
-              "projectPath": "E:\\CURBIT PROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj"
+            "E:\\CURBITPROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj": {
+              "projectPath": "E:\\CURBITPROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj"
             }
           }
         }

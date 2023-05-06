@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m7AkYmUZjGA2N8HXFK+4gCo6U1sB6AB/MoBRI8i/dOLRAz4lbFlfvD8dxbYIP8t9vW6uC1lkbuKscihqq5yy4g==",
+  "dgSpecHash": "U2mvnn7dqh+SRlrrqnhV6pZereHMBZRH7pzbpxpQc4Sw+OQbhHQytGvFDHpTuT0RfWmM1ECOdjEWzLrp1goCJg==",
   "success": true,
-  "projectFilePath": "E:\\CURBIT PROJECT\\CurbitProject\\Tracking.Infrastructure\\Tracking.Infrastructure.csproj",
+  "projectFilePath": "E:\\CURBITPROJECT\\CurbitProject\\Tracking.Infrastructure\\Tracking.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KRISTIAN\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\KRISTIAN\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

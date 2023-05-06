@@ -8,3 +8,9 @@ E:\CURBIT PROJECT\CurbitProject\NotificationDatabase\obj\Debug\Model.xml
 E:\CURBIT PROJECT\CurbitProject\NotificationDatabase\obj\Debug\refactor.xml
 E:\CURBIT PROJECT\CurbitProject\NotificationDatabase\obj\Debug\postdeploy.sql
 E:\CURBIT PROJECT\CurbitProject\NotificationDatabase\obj\Debug\predeploy.sql
+E:\CURBITPROJECT\CurbitProject\NotificationDatabase\bin\Debug\NotificationDatabase.dacpac
+E:\CURBITPROJECT\CurbitProject\NotificationDatabase\bin\Debug\NotificationDatabase.dll
+E:\CURBITPROJECT\CurbitProject\NotificationDatabase\bin\Debug\NotificationDatabase.pdb
+E:\CURBITPROJECT\CurbitProject\NotificationDatabase\obj\Debug\NotificationDatabase.sqlproj.AssemblyReference.cache
+E:\CURBITPROJECT\CurbitProject\NotificationDatabase\obj\Debug\NotificationDatabase.dll
+E:\CURBITPROJECT\CurbitProject\NotificationDatabase\obj\Debug\NotificationDatabase.pdb

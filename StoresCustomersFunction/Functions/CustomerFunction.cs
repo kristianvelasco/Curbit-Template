@@ -1,15 +1,17 @@
 using Microsoft.Azure.Functions.Worker;
 using Microsoft.Extensions.Logging;
+using StoresCustomersFunction.Services.Interfaces;
 
 namespace StoresCustomersFunction.Functions;
 
 public class CustomerFunction
 {
     private readonly ILogger _logger;
-
-    public CustomerFunction(ILoggerFactory loggerFactory)
+    private readonly ICustomerService _customerService;
+    public CustomerFunction(ILoggerFactory loggerFactory, ICustomerService customerService)
     {
         _logger = loggerFactory.CreateLogger<CustomerFunction>();
+        _customerService = customerService;
     }
 
     [Function("CustomerFunction")]
