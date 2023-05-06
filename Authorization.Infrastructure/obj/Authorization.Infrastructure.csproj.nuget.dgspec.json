@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CURBIT PROJECT\\CurbitProject\\Authorization.Infrastructure\\Authorization.Infrastructure.csproj": {}
+    "E:\\CURBITPROJECT\\CurbitProject\\Authorization.Infrastructure\\Authorization.Infrastructure.csproj": {}
   },
   "projects": {
-    "E:\\CURBIT PROJECT\\CurbitProject\\Authorization.Infrastructure\\Authorization.Infrastructure.csproj": {
+    "E:\\CURBITPROJECT\\CurbitProject\\Authorization.Infrastructure\\Authorization.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CURBIT PROJECT\\CurbitProject\\Authorization.Infrastructure\\Authorization.Infrastructure.csproj",
+        "projectUniqueName": "E:\\CURBITPROJECT\\CurbitProject\\Authorization.Infrastructure\\Authorization.Infrastructure.csproj",
         "projectName": "Authorization.Infrastructure",
-        "projectPath": "E:\\CURBIT PROJECT\\CurbitProject\\Authorization.Infrastructure\\Authorization.Infrastructure.csproj",
+        "projectPath": "E:\\CURBITPROJECT\\CurbitProject\\Authorization.Infrastructure\\Authorization.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\KRISTIAN\\.nuget\\packages\\",
-        "outputPath": "E:\\CURBIT PROJECT\\CurbitProject\\Authorization.Infrastructure\\obj\\",
+        "outputPath": "E:\\CURBITPROJECT\\CurbitProject\\Authorization.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KRISTIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\CURBIT PROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj": {
-                "projectPath": "E:\\CURBIT PROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj"
+              "E:\\CURBITPROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj": {
+                "projectPath": "E:\\CURBITPROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj"
               }
             }
           }
@@ -73,14 +73,14 @@
         }
       }
     },
-    "E:\\CURBIT PROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj": {
+    "E:\\CURBITPROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CURBIT PROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj",
+        "projectUniqueName": "E:\\CURBITPROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj",
         "projectName": "Common.Data",
-        "projectPath": "E:\\CURBIT PROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj",
+        "projectPath": "E:\\CURBITPROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj",
         "packagesPath": "C:\\Users\\KRISTIAN\\.nuget\\packages\\",
-        "outputPath": "E:\\CURBIT PROJECT\\CurbitProject\\Common.Data\\obj\\",
+        "outputPath": "E:\\CURBITPROJECT\\CurbitProject\\Common.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KRISTIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -10,3 +10,15 @@ E:\CURBIT PROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\Tracking.Domain.dl
 E:\CURBIT PROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\refint\Tracking.Domain.dll
 E:\CURBIT PROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\Tracking.Domain.pdb
 E:\CURBIT PROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\ref\Tracking.Domain.dll
+E:\CURBITPROJECT\CurbitProject\Tracking.DAL\bin\Debug\net6.0\Tracking.Domain.deps.json
+E:\CURBITPROJECT\CurbitProject\Tracking.DAL\bin\Debug\net6.0\Tracking.Domain.dll
+E:\CURBITPROJECT\CurbitProject\Tracking.DAL\bin\Debug\net6.0\Tracking.Domain.pdb
+E:\CURBITPROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\Tracking.Domain.csproj.AssemblyReference.cache
+E:\CURBITPROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\Tracking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\CURBITPROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\Tracking.Domain.AssemblyInfoInputs.cache
+E:\CURBITPROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\Tracking.Domain.AssemblyInfo.cs
+E:\CURBITPROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\Tracking.Domain.csproj.CoreCompileInputs.cache
+E:\CURBITPROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\Tracking.Domain.dll
+E:\CURBITPROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\refint\Tracking.Domain.dll
+E:\CURBITPROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\Tracking.Domain.pdb
+E:\CURBITPROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\ref\Tracking.Domain.dll

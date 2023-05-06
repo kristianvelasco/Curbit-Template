@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CURBIT PROJECT\\CurbitProject\\Tracking.DAL\\Tracking.Domain.csproj": {}
+    "E:\\CURBITPROJECT\\CurbitProject\\Tracking.DAL\\Tracking.Domain.csproj": {}
   },
   "projects": {
-    "E:\\CURBIT PROJECT\\CurbitProject\\Tracking.DAL\\Tracking.Domain.csproj": {
+    "E:\\CURBITPROJECT\\CurbitProject\\Tracking.DAL\\Tracking.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CURBIT PROJECT\\CurbitProject\\Tracking.DAL\\Tracking.Domain.csproj",
+        "projectUniqueName": "E:\\CURBITPROJECT\\CurbitProject\\Tracking.DAL\\Tracking.Domain.csproj",
         "projectName": "Tracking.Domain",
-        "projectPath": "E:\\CURBIT PROJECT\\CurbitProject\\Tracking.DAL\\Tracking.Domain.csproj",
+        "projectPath": "E:\\CURBITPROJECT\\CurbitProject\\Tracking.DAL\\Tracking.Domain.csproj",
         "packagesPath": "C:\\Users\\KRISTIAN\\.nuget\\packages\\",
-        "outputPath": "E:\\CURBIT PROJECT\\CurbitProject\\Tracking.DAL\\obj\\",
+        "outputPath": "E:\\CURBITPROJECT\\CurbitProject\\Tracking.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KRISTIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

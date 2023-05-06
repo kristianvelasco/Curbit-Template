@@ -585,11 +585,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CURBIT PROJECT\\CurbitProject\\Order.Infrastructure\\Order.Infrastructure.csproj",
+      "projectUniqueName": "E:\\CURBITPROJECT\\CurbitProject\\Order.Infrastructure\\Order.Infrastructure.csproj",
       "projectName": "Order.Infrastructure",
-      "projectPath": "E:\\CURBIT PROJECT\\CurbitProject\\Order.Infrastructure\\Order.Infrastructure.csproj",
+      "projectPath": "E:\\CURBITPROJECT\\CurbitProject\\Order.Infrastructure\\Order.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\KRISTIAN\\.nuget\\packages\\",
-      "outputPath": "E:\\CURBIT PROJECT\\CurbitProject\\Order.Infrastructure\\obj\\",
+      "outputPath": "E:\\CURBITPROJECT\\CurbitProject\\Order.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\KRISTIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -606,8 +606,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\CURBIT PROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj": {
-              "projectPath": "E:\\CURBIT PROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj"
+            "E:\\CURBITPROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj": {
+              "projectPath": "E:\\CURBITPROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj"
             }
           }
         }
