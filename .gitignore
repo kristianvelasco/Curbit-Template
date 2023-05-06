@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AuthorizationDatabase/AuthorizationDatabase.dbmdl
+/AuthorizationDatabase/AuthorizationDatabase.jfm
+/TrackingDatabase/TrackingDatabase.dbmdl
+/TrackingDatabase/TrackingDatabase.jfm
+/OrderDatabase/OrderDatabase.dbmdl
+/OrderDatabase/OrderDatabase.jfm
+/NotificationDatabase/NotificationDatabase.dbmdl
+/NotificationDatabase/NotificationDatabase.jfm
