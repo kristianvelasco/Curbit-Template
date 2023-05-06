@@ -14,3 +14,7 @@ E:\CURBITPROJECT\CurbitProject\TrackingDatabase\bin\Debug\TrackingDatabase.pdb
 E:\CURBITPROJECT\CurbitProject\TrackingDatabase\obj\Debug\TrackingDatabase.sqlproj.AssemblyReference.cache
 E:\CURBITPROJECT\CurbitProject\TrackingDatabase\obj\Debug\TrackingDatabase.dll
 E:\CURBITPROJECT\CurbitProject\TrackingDatabase\obj\Debug\TrackingDatabase.pdb
+E:\CURBITPROJECT\CurbitProject\TrackingDatabase\obj\Debug\Model.xml
+E:\CURBITPROJECT\CurbitProject\TrackingDatabase\obj\Debug\refactor.xml
+E:\CURBITPROJECT\CurbitProject\TrackingDatabase\obj\Debug\postdeploy.sql
+E:\CURBITPROJECT\CurbitProject\TrackingDatabase\obj\Debug\predeploy.sql

@@ -56,5 +56,13 @@
   <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
   <ItemGroup>
     <Folder Include="Properties" />
+    <Folder Include="Objects" />
+    <Folder Include="Objects\Order" />
+    <Folder Include="Objects\Order\Tables" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="Objects\Order\Tables\Orders.sql" />
+    <Build Include="Objects\Order\Tables\OrderItems.sql" />
+    <Build Include="Objects\Order\Tables\OrderStatuses.sql" />
   </ItemGroup>
 </Project>

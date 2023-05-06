@@ -14,3 +14,7 @@ E:\CURBITPROJECT\CurbitProject\AuthorizationDatabase\bin\Debug\AuthorizationData
 E:\CURBITPROJECT\CurbitProject\AuthorizationDatabase\obj\Debug\AuthorizationDatabase.sqlproj.AssemblyReference.cache
 E:\CURBITPROJECT\CurbitProject\AuthorizationDatabase\obj\Debug\AuthorizationDatabase.dll
 E:\CURBITPROJECT\CurbitProject\AuthorizationDatabase\obj\Debug\AuthorizationDatabase.pdb
+E:\CURBITPROJECT\CurbitProject\AuthorizationDatabase\obj\Debug\Model.xml
+E:\CURBITPROJECT\CurbitProject\AuthorizationDatabase\obj\Debug\refactor.xml
+E:\CURBITPROJECT\CurbitProject\AuthorizationDatabase\obj\Debug\postdeploy.sql
+E:\CURBITPROJECT\CurbitProject\AuthorizationDatabase\obj\Debug\predeploy.sql
