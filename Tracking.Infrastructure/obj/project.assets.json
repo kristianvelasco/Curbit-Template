@@ -1059,6 +1059,19 @@
         "runtime": {
           "bin/placeholder/Common.Data.dll": {}
         }
+      },
+      "Tracking.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Common.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Tracking.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tracking.Domain.dll": {}
+        }
       }
     }
   },
@@ -3233,13 +3246,19 @@
       "type": "project",
       "path": "../Common.Data/Common.Data.csproj",
       "msbuildProject": "../Common.Data/Common.Data.csproj"
+    },
+    "Tracking.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Tracking.DAL/Tracking.Domain.csproj",
+      "msbuildProject": "../Tracking.DAL/Tracking.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Common.Data >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.5",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5",
+      "Tracking.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3271,6 +3290,9 @@
           "projectReferences": {
             "E:\\CURBITPROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj": {
               "projectPath": "E:\\CURBITPROJECT\\CurbitProject\\Common.Data\\Common.Data.csproj"
+            },
+            "E:\\CURBITPROJECT\\CurbitProject\\Tracking.DAL\\Tracking.Domain.csproj": {
+              "projectPath": "E:\\CURBITPROJECT\\CurbitProject\\Tracking.DAL\\Tracking.Domain.csproj"
             }
           }
         }

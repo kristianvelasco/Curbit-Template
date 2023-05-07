@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Common.Data\Common.Data.csproj" />
+    <ProjectReference Include="..\Tracking.DAL\Tracking.Domain.csproj" />
   </ItemGroup>
 
 </Project>

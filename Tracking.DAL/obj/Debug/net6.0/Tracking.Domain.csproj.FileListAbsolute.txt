@@ -22,3 +22,6 @@ E:\CURBITPROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\Tracking.Domain.dll
 E:\CURBITPROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\refint\Tracking.Domain.dll
 E:\CURBITPROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\Tracking.Domain.pdb
 E:\CURBITPROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\ref\Tracking.Domain.dll
+E:\CURBITPROJECT\CurbitProject\Tracking.DAL\bin\Debug\net6.0\Common.Data.dll
+E:\CURBITPROJECT\CurbitProject\Tracking.DAL\bin\Debug\net6.0\Common.Data.pdb
+E:\CURBITPROJECT\CurbitProject\Tracking.DAL\obj\Debug\net6.0\Tracking.Domain.csproj.CopyComplete

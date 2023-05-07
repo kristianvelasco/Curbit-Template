@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tracking.Domain.Mapping
 {
-    internal class TrackingProfile
+    public class TrackingProfile
     {
     }
 }

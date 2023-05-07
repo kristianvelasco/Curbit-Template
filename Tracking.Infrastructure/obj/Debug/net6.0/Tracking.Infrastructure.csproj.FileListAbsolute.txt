@@ -28,3 +28,5 @@ E:\CURBITPROJECT\CurbitProject\Tracking.Infrastructure\obj\Debug\net6.0\Tracking
 E:\CURBITPROJECT\CurbitProject\Tracking.Infrastructure\obj\Debug\net6.0\refint\Tracking.Infrastructure.dll
 E:\CURBITPROJECT\CurbitProject\Tracking.Infrastructure\obj\Debug\net6.0\Tracking.Infrastructure.pdb
 E:\CURBITPROJECT\CurbitProject\Tracking.Infrastructure\obj\Debug\net6.0\ref\Tracking.Infrastructure.dll
+E:\CURBITPROJECT\CurbitProject\Tracking.Infrastructure\bin\Debug\net6.0\Tracking.Domain.dll
+E:\CURBITPROJECT\CurbitProject\Tracking.Infrastructure\bin\Debug\net6.0\Tracking.Domain.pdb

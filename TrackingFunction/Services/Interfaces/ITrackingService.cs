@@ -9,6 +9,6 @@ namespace TrackingFunction.Services.Interfaces
 {
     public interface ITrackingService
     {
-        Task AddTracking(ILogger log, string eventData);
+        void AddTracking(ILogger log, string eventData);
     }
 }
