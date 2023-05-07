@@ -25,7 +25,6 @@ public class OrderService : IOrderService
 
     public void Init()
     {
-
         _orderRepository.AddIfNotExists(new Order.Domain.Models.Order());
         _orderRepository.UnitOfWork.SaveChangesAsync();
     }
